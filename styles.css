@@ -37,15 +37,15 @@ body {
   justify-content: space-between;  
 }
 
-.flex-outer > li:not(:last-child) {
+.flex-outer > li {
   margin-bottom: 20px;
 }
 
 .flex-outer li label,
 .flex-outer li p {
   padding: 8px;
-  font-weight: 300;
-  letter-spacing: .09em;
+  font-weight: 400;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
 }
 
